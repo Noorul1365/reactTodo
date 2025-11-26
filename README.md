@@ -27,6 +27,8 @@ git clone https://github.com/Noorul1365/reactTodo.git
 
 2️⃣ Open the project folder
 
+cd todo-react-app
+
 3️⃣ Install all dependencies
 
 npm install
